@@ -1,2 +1,2 @@
 # ML-code-using-Fashion-MNIST
-My 1st ML code
+My 1st ML code using TensorFlow
